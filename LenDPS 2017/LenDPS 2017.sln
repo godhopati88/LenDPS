@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LenDPS 2017", "LenDPS 2016\LenDPS 2017.vbproj", "{92E3E39F-0ED4-4741-9BD8-02A04AE20033}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Railway", "..\Railway\Railway\Railway.vbproj", "{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E3E39F-0ED4-4741-9BD8-02A04AE20033}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{92E3E39F-0ED4-4741-9BD8-02A04AE20033}.Debug|x86.ActiveCfg = Debug|x86
+		{92E3E39F-0ED4-4741-9BD8-02A04AE20033}.Debug|x86.Build.0 = Debug|x86
+		{92E3E39F-0ED4-4741-9BD8-02A04AE20033}.Release|Any CPU.ActiveCfg = Release|x86
+		{92E3E39F-0ED4-4741-9BD8-02A04AE20033}.Release|x86.ActiveCfg = Release|x86
+		{92E3E39F-0ED4-4741-9BD8-02A04AE20033}.Release|x86.Build.0 = Release|x86
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Debug|x86.Build.0 = Debug|Any CPU
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Release|x86.ActiveCfg = Release|Any CPU
+		{FFB82C96-BAE1-4B85-9409-7EB0B59712B4}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

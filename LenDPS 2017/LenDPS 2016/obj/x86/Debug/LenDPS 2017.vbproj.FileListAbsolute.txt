@@ -1,0 +1,72 @@
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.vbprojResolveAssemblyReference.cache
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Client.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Server.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmUDP.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmOpcode.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmAbout.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmCommunication.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmMain.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmSetWindow.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmVarContent.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmInsertDevice.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Resources.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmAssignIO.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmObjectProperty.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmDaftarVariable.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmRunTime.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmTerminal.resources
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.vbproj.GenerateResource.Cache
+E:\DPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.exe
+E:\DPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.pdb
+E:\DPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.xml
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.exe
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.xml
+E:\DPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.pdb
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.exe
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.xml
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.pdb
+F:\LenDPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.exe
+F:\LenDPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.pdb
+F:\LenDPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.xml
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.vbprojResolveAssemblyReference.cache
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Client.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Server.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmUDP.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmOpcode.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmAbout.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmCommunication.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmMain.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmSetWindow.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmVarContent.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmInsertDevice.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Resources.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmAssignIO.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmObjectProperty.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmDaftarVariable.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmRunTime.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmTerminal.resources
+F:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.vbproj.GenerateResource.Cache
+E:\LenDPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.exe
+E:\LenDPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.pdb
+E:\LenDPS\LenDPS 2017\LenDPS 2016\bin\Debug\LenDPS 2017.xml
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Client.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Server.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmUDP.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmOpcode.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmAbout.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmCommunication.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmMain.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmSetWindow.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmVarContent.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmInsertDevice.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.Resources.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmAssignIO.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmObjectProperty.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmDaftarVariable.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmRunTime.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS_2016.frmTerminal.resources
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.vbproj.GenerateResource.Cache
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.exe
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.xml
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.pdb
+E:\LenDPS\LenDPS 2017\LenDPS 2016\obj\x86\Debug\LenDPS 2017.vbprojResolveAssemblyReference.cache
